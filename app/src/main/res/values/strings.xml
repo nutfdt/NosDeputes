@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nos Députés</string>
+    <string name="app_name_home">Nos Députés - Accueil</string>
+    <string name="app_name_details">Nos Députés - Détails</string>
+    <string name="app_name_listVotes">Nos Députés - Votes</string>
+    <string name="rechercher">Rechercher...</string>
+    <string name="valider">Valider</string>
+    <string name="photo_profil">Photo de profil</string>
+</resources>

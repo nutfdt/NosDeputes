@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="5sp">
+
+    <LinearLayout
+        android:layout_width="100sp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewItemVotePosition"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Position"
+            android:textColor="#233D67"
+            android:textSize="10sp" />
+        <ImageView
+            android:id="@+id/imageViewVote"
+            android:layout_width="60sp"
+            android:layout_height="93dp"
+            android:layout_gravity="center"
+            android:layout_margin="2sp"
+            android:layout_weight="1"
+            android:contentDescription="@string/photo_profil"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/textViewItemVoteDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Date"
+            android:textColor="#233D67"
+            android:textSize="12sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="2.5sp"
+        android:layout_height="match_parent"
+        android:layout_margin="5sp"
+        android:background="#81BEC7">
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:layout_margin="10sp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewItemVoteTitre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_margin="2sp"
+            android:textStyle="bold"
+            android:textColor="#233D67"
+            android:text="Titre" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="2sp"
+            android:layout_margin="5sp"
+            android:background="#81BEC7">
+        </LinearLayout>
+        <TextView
+            android:id="@+id/textViewItemVotePour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_margin="2sp"
+            android:textColor="#233D67"
+            android:text="Pour : X" />
+        <TextView
+            android:id="@+id/textViewItemVoteContre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_margin="2sp"
+            android:textColor="#233D67"
+            android:text="Contre : X" />
+        <TextView
+            android:id="@+id/textViewItemVoteAbstention"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_margin="2sp"
+            android:textColor="#233D67"
+            android:text="Abstention : X" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="2sp"
+            android:layout_margin="5sp"
+            android:background="#81BEC7">
+        </LinearLayout>
+        <TextView
+            android:id="@+id/textViewItemVoteResultat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="#233D67"
+            android:layout_margin="2sp"
+            android:text="Résultat : X" />
+    </LinearLayout>
+
+</LinearLayout>
+
