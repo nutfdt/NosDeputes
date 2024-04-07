@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="beige">#DED9CE</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Nos Députés</string>
+    <string name="app_name_details">Nos Députés - Détails</string>
+    <string name="app_name_home">Nos Députés - Accueil</string>
+    <string name="app_name_listVotes">Nos Députés - Votes</string>
+    <string name="photo_profil">Photo de profil</string>
+    <string name="rechercher">Rechercher...</string>
+    <string name="valider">Valider</string>
+    <style name="Base.Theme.NosDeputes" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.NosDeputes" parent="Base.Theme.NosDeputes"/>
+</resources>

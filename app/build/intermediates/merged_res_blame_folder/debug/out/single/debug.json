@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/layout_item_deputy.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/layout/item_deputy.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_pour.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/pour.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_an.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/an.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_abstention.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/abstention.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_logo.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_email.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/email.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/layout_activity_vote.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/layout/activity_vote.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_list_border.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/list_border.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/layout_activity_deputy.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/layout/activity_deputy.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_homme.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/homme.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_maison.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/maison.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_search_border.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/search_border.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_france.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/france.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_adresse.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/adresse.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_border.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/border.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_background.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/background.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_femme.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/femme.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_contre.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/contre.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/layout_item_vote.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/layout/item_vote.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_groupe.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/groupe.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_background_header.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/background_header.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_hemicycle.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/hemicycle.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.nosdeputes.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_twitter.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/twitter.png"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/layout_item_collabos.xml.flat",
+        "source": "com.example.nosdeputes.app-main-31:/layout/item_collabos.xml"
+    },
+    {
+        "merged": "com.example.nosdeputes.app-merged_res-29:/drawable_logo_round.png.flat",
+        "source": "com.example.nosdeputes.app-main-31:/drawable/logo_round.png"
+    }
+]
