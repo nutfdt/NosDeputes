@@ -37,7 +37,3 @@ Ce projet est une application Android qui permet de récupérer des informations
 ```bash
 git clone https://github.com/nutfdt/NosDeputes.git
 ```
-
-### Ouvrir le projet dans Android Studio.
-
-### Compiler et exécuter l'application sur un émulateur ou un appareil Android connecté.
